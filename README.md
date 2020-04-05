@@ -12,16 +12,16 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2019 to better understand:
+For this project, I was interestested in using Stack Overflow data from 2019 to better understand the relevance of having higher education degrees (post High School) in software engineering careers by looking at the following: 
 
-1. What countries are paying the highest salaries to software developers
-2. Does years of experience translate to high pay? 
-3. What is the age distribution of software engineers
+1. How does their pay compare with people with more degrees?
+2. Are people with only High School more satisfied in their career than those with higher educational degrees? 
+3. How do they feel about becoming managers (growth opportunity)? 
 
 
 ## File Descriptions <a name="files"></a>
 
-The notebook is available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+The notebooks available here are used to explore the data searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
 
 ## Results<a name="results"></a>
 
