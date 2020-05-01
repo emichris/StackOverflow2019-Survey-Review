@@ -1,3 +1,5 @@
+# Stack Overflow 2019 Survey Review
+
 ### Table of Contents
 
 1. [Installation](#installation)
@@ -12,21 +14,20 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2019 to better understand the relevance of having higher education degrees (post High School) in software engineering careers by looking at the following: 
+For this project, I was interestested in using Stack Overflow's 2019 survey data to better understand the relevance of having higher education degrees (post High School) in software engineering careers by looking at the following: 
 
-1. How does their pay compare with people with more degrees?
-2. Are people with only High School more satisfied in their career than those with higher educational degrees? 
-3. How do they feel about becoming managers (growth opportunity)? 
-
+1. Are people with High School diploma as satisfied in their software engineering job/career as those with higher educational degrees?
+2. Are people with high school degrees paid at same rate as people with college education?
+3. How do they feel about becoming managers (growth opportunity)?
 
 ## File Descriptions <a name="files"></a>
 
-The notebooks available here are used to explore the data searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+The notebook `stackreview-data-analysis.ipynb` available [here](https://github.com/emichris/StackOverflow2019-Survey-Review/blob/master/stackreview-data-analysis.ipynb) are used to explore the data in order to answer the business questions.  Markdown cells were used to assist in walking through the thought process for each individual step.   
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found in this article on medium [Is there opportunity for people with only High School diploma in Software Engineering?](https://medium.com/@christian.emiyah/is-there-opportunity-for-people-with-only-high-school-diploma-in-software-engineering-e3224bcdceed).
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="licensing"></a>
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://insights.stackoverflow.com/survey).  Otherwise, feel free to use the code here as you would like! 
